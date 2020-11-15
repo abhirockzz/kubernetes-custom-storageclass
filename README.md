@@ -1,3 +1,3 @@
 ## How to use custom Storage Classes in Kubernetes
 
-Most Kubernetes offerings provide default Storage Classes out of the box to ease the process of dynamic storage provisioning. But, what if you have custom requirements? This example shows how you can create your own Storage Class to meet your needs - it is based on an [Azure Kubernetes Service](https://docs.microsoft.com/azure/aks/?WT.mc_id=devto-blog-abhishgu) but should be applicable to any Kubernetes provider.
+Most Kubernetes offerings provide default Storage Classes out of the box to ease the process of dynamic storage provisioning. But, what if you have custom requirements? This example shows how you can create your own Storage Class to meet your needs - it is based on an [Azure Kubernetes Service](https://docs.microsoft.com/azure/aks/?WT.mc_id=data-0000-abhishgu) but should be applicable to any Kubernetes provider.
